@@ -1,0 +1,7 @@
+C:\Users\Shane Putra Waring\source\repos\InputName\InputName\bin\Debug\InputName.exe.config
+C:\Users\Shane Putra Waring\source\repos\InputName\InputName\bin\Debug\InputName.exe
+C:\Users\Shane Putra Waring\source\repos\InputName\InputName\bin\Debug\InputName.pdb
+C:\Users\Shane Putra Waring\source\repos\InputName\InputName\obj\Debug\InputName.csprojAssemblyReference.cache
+C:\Users\Shane Putra Waring\source\repos\InputName\InputName\obj\Debug\InputName.csproj.CoreCompileInputs.cache
+C:\Users\Shane Putra Waring\source\repos\InputName\InputName\obj\Debug\InputName.exe
+C:\Users\Shane Putra Waring\source\repos\InputName\InputName\obj\Debug\InputName.pdb
