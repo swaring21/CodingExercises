@@ -1,0 +1,7 @@
+C:\Users\Shane Putra Waring\source\repos\Addition\Addition\bin\Debug\Addition.exe.config
+C:\Users\Shane Putra Waring\source\repos\Addition\Addition\bin\Debug\Addition.exe
+C:\Users\Shane Putra Waring\source\repos\Addition\Addition\bin\Debug\Addition.pdb
+C:\Users\Shane Putra Waring\source\repos\Addition\Addition\obj\Debug\Addition.csprojAssemblyReference.cache
+C:\Users\Shane Putra Waring\source\repos\Addition\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+C:\Users\Shane Putra Waring\source\repos\Addition\Addition\obj\Debug\Addition.exe
+C:\Users\Shane Putra Waring\source\repos\Addition\Addition\obj\Debug\Addition.pdb
