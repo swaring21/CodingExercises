@@ -1,0 +1,7 @@
+C:\Users\Shane Putra Waring\source\repos\CompareOddsAndEvens\CompareOddsAndEvens\obj\Debug\CompareOddsAndEvens.csprojAssemblyReference.cache
+C:\Users\Shane Putra Waring\source\repos\CompareOddsAndEvens\CompareOddsAndEvens\obj\Debug\CompareOddsAndEvens.csproj.CoreCompileInputs.cache
+C:\Users\Shane Putra Waring\source\repos\CompareOddsAndEvens\CompareOddsAndEvens\bin\Debug\CompareOddsAndEvens.exe.config
+C:\Users\Shane Putra Waring\source\repos\CompareOddsAndEvens\CompareOddsAndEvens\bin\Debug\CompareOddsAndEvens.exe
+C:\Users\Shane Putra Waring\source\repos\CompareOddsAndEvens\CompareOddsAndEvens\bin\Debug\CompareOddsAndEvens.pdb
+C:\Users\Shane Putra Waring\source\repos\CompareOddsAndEvens\CompareOddsAndEvens\obj\Debug\CompareOddsAndEvens.exe
+C:\Users\Shane Putra Waring\source\repos\CompareOddsAndEvens\CompareOddsAndEvens\obj\Debug\CompareOddsAndEvens.pdb
