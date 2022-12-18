@@ -1,0 +1,7 @@
+C:\Users\Shane Putra Waring\source\repos\Loop1to10\Loop1to10\bin\Debug\Loop1to10.exe.config
+C:\Users\Shane Putra Waring\source\repos\Loop1to10\Loop1to10\bin\Debug\Loop1to10.exe
+C:\Users\Shane Putra Waring\source\repos\Loop1to10\Loop1to10\bin\Debug\Loop1to10.pdb
+C:\Users\Shane Putra Waring\source\repos\Loop1to10\Loop1to10\obj\Debug\Loop1to10.csprojAssemblyReference.cache
+C:\Users\Shane Putra Waring\source\repos\Loop1to10\Loop1to10\obj\Debug\Loop1to10.csproj.CoreCompileInputs.cache
+C:\Users\Shane Putra Waring\source\repos\Loop1to10\Loop1to10\obj\Debug\Loop1to10.exe
+C:\Users\Shane Putra Waring\source\repos\Loop1to10\Loop1to10\obj\Debug\Loop1to10.pdb
