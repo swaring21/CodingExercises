@@ -1,0 +1,7 @@
+C:\Users\Shane Putra Waring\source\repos\BiggestNumberofThree\BiggestNumberofThree\obj\Debug\BiggestNumberofThree.csprojAssemblyReference.cache
+C:\Users\Shane Putra Waring\source\repos\BiggestNumberofThree\BiggestNumberofThree\obj\Debug\BiggestNumberofThree.csproj.CoreCompileInputs.cache
+C:\Users\Shane Putra Waring\source\repos\BiggestNumberofThree\BiggestNumberofThree\bin\Debug\BiggestNumberofThree.exe.config
+C:\Users\Shane Putra Waring\source\repos\BiggestNumberofThree\BiggestNumberofThree\bin\Debug\BiggestNumberofThree.exe
+C:\Users\Shane Putra Waring\source\repos\BiggestNumberofThree\BiggestNumberofThree\bin\Debug\BiggestNumberofThree.pdb
+C:\Users\Shane Putra Waring\source\repos\BiggestNumberofThree\BiggestNumberofThree\obj\Debug\BiggestNumberofThree.exe
+C:\Users\Shane Putra Waring\source\repos\BiggestNumberofThree\BiggestNumberofThree\obj\Debug\BiggestNumberofThree.pdb
